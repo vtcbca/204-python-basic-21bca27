@@ -1,3 +1,4 @@
+#WAS to enter any number and print sum of it's digit
 i = int(input("Enter any Number: "))
 sum = 0
 a = i
