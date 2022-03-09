@@ -1,3 +1,4 @@
+#WAS ro enter any number and print from which number from 0 to 9 divisiable
 i = int(input("Enter Number: "))
 a = 1
 while i>=0:
