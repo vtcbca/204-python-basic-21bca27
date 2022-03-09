@@ -1,3 +1,4 @@
+#WAS to enter any number and check number is palidrom or not
 i = int(input("Enter Number : "))
 a = i
 sum = 0
