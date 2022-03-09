@@ -1,3 +1,4 @@
+# WAS to print sum of 1 to n number
 i = int(input("Enter Number: "))
 sum = 0
 a = 1
