@@ -1,3 +1,4 @@
+
 i = int(input("Enter Number: "))
 a = 1
 while a<=i:
