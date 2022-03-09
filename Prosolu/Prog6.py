@@ -1,3 +1,4 @@
+# WRS to enter number 1 to 7 and print appropriate day
 i = int(input("Enter Number: "))
 if(i==1):
     print("Monday")
