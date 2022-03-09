@@ -1,3 +1,4 @@
+#WAS enter any number and check number is Armstrong or not
 i = int(input("Enter Number: "))
 sum = 0
 a = i
